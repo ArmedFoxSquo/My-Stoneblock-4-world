@@ -1,0 +1,18 @@
+{
+	"failure": {
+		"On Cooldown": 498.0,
+		"Player not in Team Dimension": 14.0,
+		"No Event": 26.0,
+		"Player is creative or spectator": 12.0,
+		"Questing Ram - Already exists": 3.0
+	},
+	"success": {
+		"Creeper": 5.0,
+		"Loot Bee Event": 10.0,
+		"Stick Event": 2.0,
+		"Ceiling Collapse": 6.0,
+		"Goat": 3.0,
+		"Questing Ram": 5.0,
+		"Wandering Trader": 2.0
+	}
+}
